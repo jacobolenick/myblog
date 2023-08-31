@@ -1,0 +1,29 @@
+.card {
+    background-color: rgb(255, 255, 255);
+    border-radius: 20PX;
+    border: 1px solid rgb(225, 225, 225);
+    width: 500px;
+    height: fit-content;
+    display:flex;
+    margin-bottom: 24px;
+
+}
+
+.card:hover {
+    background-color: #ededed;
+    border-radius: 20PX;
+    stroke: lightgray;
+    
+}
+
+.card-body {
+    padding-left: 24px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-right: 24px;
+    width: 100%;
+}
+
+.card-title {
+    margin-bottom: 8px;
+}
