@@ -1,6 +1,5 @@
 import './App.css';
 import Blogcard from './Components/Blogcard';
-import Navbar from './Components/Navbar';
 
 const blogs = [
   {title: "Why I'm teaching myself React", body: "This is my first blog post!"},
@@ -9,10 +8,11 @@ const blogs = [
   {title: "I enjoy coding as a way to feel calm", body: "This is my first blog post!"}
 ];
 
+
+
 function App() {
   return (
    <main>
-    <Navbar />
     { blogs.map((blog) =>  <Blogcard blog={blog} />) }
    </main>
   );
