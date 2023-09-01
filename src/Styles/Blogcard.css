@@ -1,6 +1,6 @@
 .card {
-    background-color: rgb(255, 255, 255);
-    border-radius: 20PX;
+    background-color: rgb(209, 195, 255);
+    border-radius: 16PX;
     border: 1px solid lightgray;
     width: 500px;
     height: fit-content;
@@ -11,7 +11,7 @@
 
 .card:hover {
     background-color: #f8f8f8;
-    border-radius: 20PX;
+    border-radius: 16PX;
     stroke: lightgray;
     transform: scale(1.05);
     transition: 0.2s;
