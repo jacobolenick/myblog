@@ -3,7 +3,7 @@ body {
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #eeeeee;
+  background-color: #e6e6e6;
 }
 
 code {
@@ -25,7 +25,7 @@ h2 {
 
 h3 {
   font-size: 24px;
-  font-weight: medium;
+  font-weight: 900;
   color: rgb(255, 255, 255);
 }
 
