@@ -1,15 +1,23 @@
+@font-face {
+  font-family: 'Hubot Sans';
+  src:
+    url('Hubot-Sans.woff2') format('woff2 supports variations'),
+    url('Hubot-Sans.woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+}
+html {
+  font-family: 'Hubot Sans';
+  font-stretch: extra-expanded;
+}
+
 body {
   margin: 0;
-  font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #e6e6e6;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
 
 h1 {
   font-size: 48px;
@@ -32,12 +40,15 @@ h3 {
 h5 {
   font-size: 18px;
   font-weight: medium;
+  font-stretch: 75%;
   color: rgb(255, 255, 255);
 }
 
 p {
   font-size: 18px;
   font-weight: normal;
+  font-stretch: 75%;
+  font-family: 'system-ui'; 
   color: #9EACBB;
 }
 
