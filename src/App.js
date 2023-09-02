@@ -8,6 +8,8 @@ const blogs = [
   {title: "I built a simple blog", body: "I built this blog using ReactJS. I'm excited to continue learning!"},
   {title: "I enjoy coding as a way to feel calm", body: "Coding brings me a sense of calm and peace. I'm excited to continue learning!"},
   {title: "I enjoy coding as a way to feel calm", body: "Coding brings me a sense of calm and peace. I'm excited to continue learning!"},
+  {title: "I enjoy coding as a way to feel calm", body: "Coding brings me a sense of calm and peace. I'm excited to continue learning!"},
+  {title: "I enjoy coding as a way to feel calm", body: "Coding brings me a sense of calm and peace. I'm excited to continue learning!"},
 ];
 
 
