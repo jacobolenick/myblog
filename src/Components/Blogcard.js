@@ -9,7 +9,7 @@ const Blogcard = ({ blog }) => {
       <div className="card-body">
         <h3 className="card-title">{blog.title}</h3>
         <Pill name="#React" />
-        <Pill name="#Front-End Code" />
+        <Pill name="#Front-End" />
         <p className="card-text">{blog.body}</p>
         <Cardbutton />
       </div>
