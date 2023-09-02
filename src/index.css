@@ -3,6 +3,7 @@ body {
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #eeeeee;
 }
 
 code {
@@ -13,37 +14,37 @@ code {
 h1 {
   font-size: 48px;
   font-weight: bold;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 h2 {
   font-size: 36px;
   font-weight: bold;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 h3 {
   font-size: 24px;
   font-weight: medium;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 h5 {
   font-size: 18px;
   font-weight: medium;
-  color: black;
+  color: rgb(255, 255, 255);
 }
 
 p {
   font-size: 18px;
   font-weight: normal;
-  color: black;
+  color: #9EACBB;
 }
 
 .btn {
   background-color: #ffffff00;
   border: none;
-  color: rgb(0, 0, 0);
+  color: rgb(242, 242, 242);
   padding: 8px 12px;
   text-align: center;
   font-size: 16px;

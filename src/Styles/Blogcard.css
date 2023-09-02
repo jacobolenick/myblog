@@ -1,7 +1,7 @@
 .card {
-    background-color: rgb(255, 255, 255);
+    background-color: #1A1D23;
     border-radius: 16PX;
-    border: 1px solid lightgray;
+    border: 1px solid #252932;
     width: 500px;
     height: fit-content;
     display:flex;
@@ -10,9 +10,9 @@
 }
 
 .card:hover {
-    background-color: #f8f8f8;
+    background-color: #0b0d10;
     border-radius: 16PX;
-    stroke: lightgray;
+    stroke: #252932;
     transform: scale(1.05);
     transition: 0.2s;
     cursor: pointer;
