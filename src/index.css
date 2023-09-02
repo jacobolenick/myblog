@@ -1,14 +1,14 @@
 @font-face {
-  font-family: 'Hubot Sans';
+  font-family: 'Mona Sans';
   src:
-    url('Hubot-Sans.woff2') format('woff2 supports variations'),
-    url('Hubot-Sans.woff2') format('woff2-variations');
+    url('Mona-Sans.woff2') format('woff2 supports variations'),
+    url('Mona-Sans.woff2') format('woff2-variations');
   font-weight: 200 900;
   font-stretch: 75% 125%;
 }
+
 html {
-  font-family: 'Hubot Sans';
-  font-stretch: extra-expanded;
+  font-family: 'Mona Sans';
 }
 
 body {
@@ -27,7 +27,8 @@ h1 {
 
 h2 {
   font-size: 36px;
-  font-weight: bold;
+  font-weight: 600;
+  font-stretch: 125%;
   color: rgb(255, 255, 255);
 }
 
@@ -47,8 +48,7 @@ h5 {
 p {
   font-size: 18px;
   font-weight: normal;
-  font-stretch: 75%;
-  font-family: 'system-ui'; 
+  font-stretch: 90%;
   color: #9EACBB;
 }
 
