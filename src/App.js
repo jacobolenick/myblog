@@ -10,6 +10,9 @@ const blogs = [
   {title: "I enjoy coding as a way to feel calm", body: "Coding brings me a sense of calm and peace. I'm excited to continue learning!"},
   {title: "I enjoy coding as a way to feel calm", body: "Coding brings me a sense of calm and peace. I'm excited to continue learning!"},
   {title: "I enjoy coding as a way to feel calm", body: "Coding brings me a sense of calm and peace. I'm excited to continue learning!"},
+  {title: "I enjoy coding as a way to feel calm", body: "Coding brings me a sense of calm and peace. I'm excited to continue learning!"},
+  {title: "I enjoy coding as a way to feel calm", body: "Coding brings me a sense of calm and peace. I'm excited to continue learning!"},
+  {title: "I enjoy coding as a way to feel calm", body: "Coding brings me a sense of calm and peace. I'm excited to continue learning!"},
 ];
 
 
